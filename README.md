@@ -26,7 +26,7 @@ python3
 >>> 
 ```
 ## Sujet  Création d'un composant clé permettant le chiffrement asymetrique utilisant la courbe secp256k1
-utiliser [micro-ecc](https://github.com/jluuM2/micro-ecc).<br/>
+utiliser [micro-ecc](https://github.com/jluuM2/micro-ecc) qui est deja un sous repertoire (git submodule) de composant_cle<br/>
 test a realiser:
 ```
 import composant_cle
